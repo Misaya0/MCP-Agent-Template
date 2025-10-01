@@ -1,7 +1,7 @@
-# MCP & Agent Starter Kit
+# MCP Agent Template
 
 A collection of minimal, production-ready starter projects for building multi-agent and retrieval-augmented AI workflows.  
-This kit includes three main components:
+This agent includes three main components:
 
 - **mcp-docs-server:** Exposes a folder of documents as a tool via REST API and optional MCP agent integration.
 - **website-qa-bot:** Retrieval-Augmented Generation (RAG) Q/A bot for websites and documents, with Pinecone and OpenAI integration.
@@ -46,7 +46,7 @@ This kit includes three main components:
 ## File Tree
 
 ```
-MCP & Agent Starter Kit/
+MCP Agent Template/
 ├─ mcp-docs-server/
 │  ├─ app/
 │  │  ├─ server.py
@@ -75,12 +75,3 @@ MCP & Agent Starter Kit/
 │  ├─ README.md
 ```
 
----
-
-## Author / Contact
-
-**Name:** Muhammad Umer  
-**Email:** umerhayat282@gmail.com  
-**LinkedIn:** [Muhammad Umer](https://www.linkedin.com/in/therealumerhayat/)
-
-Feel free to connect for collaboration, freelance projects, or questions about multi-agent workflows.

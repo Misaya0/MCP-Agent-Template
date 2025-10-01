@@ -85,11 +85,4 @@ website-qa-bot/
 
 ---
 
-## Author / Contact
-
-**Name:** Muhammad Umer  
-**Email:** umerhayat282@gmail.com  
-**LinkedIn:** [Muhammad Umer](https://www.linkedin.com/in/therealumerhayat/)
-
-Feel free to connect with me for collaboration, freelance projects, or questions about this multi-agent workflow.
 

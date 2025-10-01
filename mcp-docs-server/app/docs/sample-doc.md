@@ -1,6 +1,6 @@
 # Sample Company Documentation
 
-Welcome to the Sample Docs for the MCP & Agent Starter Kit.
+Welcome to the Sample Docs for the MCP Agent Template.
 
 ## About This Document
 This file demonstrates how the MCP server exposes documents as tools for AI clients.
